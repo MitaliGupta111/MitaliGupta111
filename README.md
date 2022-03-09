@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi, I"m Mitali 👋
+Hi, I'm Mitali Gupta 
 
-<!--
-**MitaliGupta111/MitaliGupta111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Mitali Gupta from India. I'm a third year student studying Computer Science and Engineering in Medicaps University. 
+
+
+⚡ Technologies
+
+Talk to me about
+
+1.Front-end development using HTML, Javascript,CSS,Bootstrap
+
+2.Backend development using Nodejs
+
+3.Making for Relational Database Management Systems
+
+4.Solving Data structure and algorithm questions in CPP.
+
+
+About me 🤔
+
+I Love ❤️ programming
+
+ 📫 How to reach me: mitaligupta@gmail.com 
+ 
+⚡ Fun fact: We’re the most imaginative in the night and the least creative in the day. 
