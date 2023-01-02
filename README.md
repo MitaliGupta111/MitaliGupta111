@@ -12,11 +12,9 @@ Talk to me about
 
 1.Front-end development using HTML, Javascript,CSS,Bootstrap
 
-2.Backend development using Nodejs
+2.Making for Relational Database Management Systems
 
-3.Making for Relational Database Management Systems
-
-4.Solving Data structure and algorithm questions in CPP.
+3.Solving Data structure and algorithm questions in CPP.
 
 
 About me 🤔
